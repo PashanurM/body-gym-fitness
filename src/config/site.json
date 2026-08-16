@@ -1,0 +1,49 @@
+{
+  "template": "gym",
+  "brand": {
+    "name": "Body Gym Fitness",
+    "shortName": "Body Gym",
+    "tagline": "",
+    "email": "",
+    "phone": "",
+    "address": "",
+    "city": "",
+    "social": {
+      "instagram": "",
+      "youtube": "",
+      "x": ""
+    },
+    "logo": "/brand/logo.png"
+  },
+  "colors": {
+    "bg": "#221113",
+    "bgElevated": "#2e1a1d",
+    "surface": "#382126",
+    "surface2": "#492b33",
+    "text": "#f2f4f3",
+    "muted": "#ae909b",
+    "accent": "#fc4452",
+    "accent2": "#f80416",
+    "logoBg": "#fcfcfc"
+  },
+  "layout": {
+    "headerLogoBg": false,
+    "footerLogoBg": false
+  },
+  "pages": {
+    "home": true,
+    "about": true,
+    "branches": true,
+    "halls": false,
+    "trainers": true,
+    "services": true,
+    "tools": false,
+    "equipment": true,
+    "pricing": true,
+    "shop": true,
+    "blog": true,
+    "faq": true,
+    "contact": true,
+    "auth": false
+  }
+}
